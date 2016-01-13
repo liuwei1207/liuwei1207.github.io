@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "我的第一个博客文章"
+subtitle:   "My first own Blog!"
+date:       2016-01-11
+author:     "lewis L"
+header-img: "img/post-bg-first.jpg"
+tags:
+    - 杂谈
+---
+
+<p>历时一个多礼拜，终于建好了自己的博客，mark一下。此后，我会随着工作和生活，定期维护这个博文，努力努力~</p>
+<p>By the way,非常感谢Echo老师,在我最孤独无助的时候和我妈一起慰问了一下我，谢谢你们~~</p>
+<p>最后，本博客主题所有者为Hux(https://github.com/Huxpro/huxpro.github.io)，在他的github上我学习到了很多关于如何构建博客的知识，再次特别感谢！</p>
+
+
+### 著作权声明
+
+本文作者 [刘伟](http://weibo.com/Aaron_LIU_1210)，首次发布于 [lewis Blog](http://liuwei1207.com)，转载请保留以上链接
